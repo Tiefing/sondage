@@ -5,3 +5,5 @@ creation d'une application de sondage avec l'aravel
  -reponse(id_user, id_question, reponse)
 
  l'utilisateur peut creer un sondate
+je n'arrive pas a envoyer les vode dans la base de donnée
+donc je veux modifié la base donnée
